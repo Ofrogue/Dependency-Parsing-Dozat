@@ -1,5 +1,5 @@
 # Dependency-Parsing-Dozat
-This ia set of AllenNLP configs to reproduce the dependency parcer from this [paper](https://arxiv.org/pdf/1611.01734.pdf)  
+This is a set of AllenNLP configs to reproduce the dependency parcer from this [paper](https://arxiv.org/pdf/1611.01734.pdf)  
 Experiments were done with different embeddings (GLOVE, ELMO, BERT) and activation functions(ELU, Leaky RELU).
 # References
 Follow the original article repo https://github.com/zysite/biaffine-parser  
